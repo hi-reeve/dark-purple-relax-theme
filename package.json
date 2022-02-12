@@ -1,0 +1,21 @@
+{
+    "name": "dark-purple-relax",
+    "displayName": "Dark purple relax",
+    "description": "Relaxing dark purple color theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark purple relax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark purple relax-color-theme.json"
+            }
+        ]
+    }
+}
