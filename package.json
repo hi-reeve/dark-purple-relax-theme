@@ -2,6 +2,7 @@
     "name": "dark-purple-relax",
     "displayName": "Dark purple relax",
     "description": "Relaxing dark purple color theme for vscode",
+	"publisher": "Christopher Reeve",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.64.0"
