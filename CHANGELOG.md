@@ -7,10 +7,3 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 # 1.0.0 (2022-02-12)
 
 - Initial release
-
-# 1.1.0 (2022-02-12)
-
-- Switching all variable color from red to yellow and otherwise
-# 1.1.1 (2022-02-12)
-
-- Fixing html tag color and attributes
