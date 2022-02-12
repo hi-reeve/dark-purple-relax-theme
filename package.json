@@ -2,10 +2,23 @@
     "name": "dark-purple-relax",
     "displayName": "Dark purple relax",
     "description": "Relaxing dark purple color theme for vscode",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.64.0"
     },
+    "repository": {
+		"type": "git",
+        "url": "https://github.com/zynth17/dark-purple-relax-theme"
+    },
+    "keywords": [
+        "Dark purple relax",
+        "relaxing vscode theme",
+        "vscode theme",
+        "vscode dark theme",
+        "dark theme for vscode",
+        "vscode purple theme",
+        "purple"
+    ],
     "categories": [
         "Themes"
     ],
