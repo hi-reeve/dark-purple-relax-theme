@@ -2,6 +2,8 @@
 
 Dark vscode theme with relaxing color palette
 
+![Logo](logo.png)
+# Screenshot
 ![Screenshot](screenshot.png)
 
 # Installation
